@@ -3,7 +3,7 @@
 
 ## Application  description:
 
-Designed an application that takes an external API  returning chuck norris jokes. The user is able type in the amount of jokes they want and then the api fetches the jokes. 
+Designed an application that takes an external API  returning chuck norris jokes. The user is able type  and request in the amount of jokes they want and then the api fetches the jokes. 
 
  ## Click [here]( https://brianlevin.github.io/Chuck-Norris-API-Jokes/) for the live app. 
  
